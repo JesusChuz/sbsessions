@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SBintermittenttrigger_repro48": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7138",
+      "launchBrowser": false
+    }
+  }
+}
